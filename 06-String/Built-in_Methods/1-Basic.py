@@ -3,6 +3,7 @@ Docstring for 06-String.1-Basic
 collection character in Quotes
 ex 'hi'
    "padma's"
+   '"padma"'
 '''
 a="padma"
 print(a.upper())

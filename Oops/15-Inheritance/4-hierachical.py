@@ -1,4 +1,4 @@
-class Parent1():
+class Parent1:
     def fun(self):
         print("i am parent1")
 class Child1(Parent1):

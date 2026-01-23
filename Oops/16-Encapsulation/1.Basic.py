@@ -6,18 +6,9 @@ private  __
 protect  _
 public
 '''
-'''class Demo():
-    __a=2
-    _b=10
-    print(__a)
-    print(_b)'''
-
 class Demo():
     __a=2
     _b=10
     print(__a)
     print(_b)
-class Demo2(Demo):
-    print(_b)
-    print(__a)
    

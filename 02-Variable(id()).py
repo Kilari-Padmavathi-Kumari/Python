@@ -15,9 +15,15 @@ print(a,b,c)
 
 #using id method
 a=23
-print(id(a))
+print(id(a))            #memory address
+
+a,b,c=1,1,1
+print(id(a),id(b),id(c))
 
 #case sensitive
 padma=1
 PADMA=22
 print(padma)
+
+name,price,qty='soap',12.75,5
+print(name,price,qty)

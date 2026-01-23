@@ -32,3 +32,11 @@ print(float(a))
 
 b=5.5
 print(int(b))
+
+a1=2
+print(str(a1))
+
+
+x="hello\nworld"
+print(str(x))
+print(repr(x))
