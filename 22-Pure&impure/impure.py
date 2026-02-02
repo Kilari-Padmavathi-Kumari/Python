@@ -1,3 +1,11 @@
+'''
+Docstring for Pure&impure.impure
+An impure function:
+
+Depends on external state
+Modifies external variables
+Causes side effects
+'''
 x=10
 def add(num):
     return num+x

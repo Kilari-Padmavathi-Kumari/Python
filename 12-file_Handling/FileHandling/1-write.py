@@ -5,5 +5,5 @@ Docstring for 12-File-Handling
  close
 '''
 s=open('demo.txt',mode='w')
-s.write("bye bye")
+s.write("hi this padma ")
 s.close()

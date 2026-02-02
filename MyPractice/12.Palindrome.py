@@ -1,4 +1,4 @@
-n='madak'
+n='madam'
 '''if n==n[::-1]:
     print('palindrome')
 else:

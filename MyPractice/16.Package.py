@@ -4,4 +4,5 @@ def multiply(a, b):
 if __name__ == "__main__":
     print(multiply(3, 4))
 
-print(__name__)
+print(__name__)    # direct call without use import stmt
+
