@@ -10,6 +10,7 @@ class Child(Parent):
 
     def __init__(self,l,b,h):
         self.height=h
+        # Calling parent constructor
         super().__init__(l, b)
     def volume(self):
         return self.length*self.breadth*self.height

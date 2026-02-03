@@ -4,6 +4,7 @@ class Parent1():
 class Parent2():
     def fun1(self):
         print("i am parent2")
+# Child class inheriting from A and B
 class Child(Parent1,Parent2):
     def fun2(self):
         print("i am Child")
