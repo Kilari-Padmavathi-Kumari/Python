@@ -9,6 +9,7 @@ class Dog(Duck):
     def walk(self):
         super().walk()
         print('dog walk')
+# objects
 d=Dog()
 d.eat()
 d.walk()

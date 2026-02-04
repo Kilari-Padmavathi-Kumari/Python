@@ -11,7 +11,7 @@ class Dog:
 
 
 def person(pet):
-    pet.talk()
+    pet.talk()     # works for any object with talk() & walk()
     pet.walk()
 
 
