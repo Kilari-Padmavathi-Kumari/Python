@@ -40,7 +40,7 @@ total = add(10, 20)  # function call
 product = apply_operation(multiply, 3, 4)  # callable usage
 student = Student(name="Anil", marks=85)  # object creation
 
-# -------- OUTPUT --------
+
 print("Name:", name)
 print("Age:", age)
 print("Marks:", marks)

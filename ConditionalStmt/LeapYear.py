@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 year=int(input("Enter number:"))
 
 if year%100==0:

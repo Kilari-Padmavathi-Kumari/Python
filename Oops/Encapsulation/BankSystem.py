@@ -26,4 +26,4 @@ acc = BankAccount("Padma", 5000)
 acc.deposit(2000)
 acc.withdraw(1000)
 
-print(acc.get_balance())   # 6000
+print(acc.get_balance())  

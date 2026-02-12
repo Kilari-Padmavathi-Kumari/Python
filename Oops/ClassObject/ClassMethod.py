@@ -10,6 +10,9 @@ class College:
 # Calling class method using class name
 College.show_college()
 
+
+
+
 '''class Rectangle:
     count=0
     def __init__(self,l,b):

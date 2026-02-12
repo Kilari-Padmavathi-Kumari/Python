@@ -4,5 +4,5 @@ class Method():
     def fun(self):
         print("function with in the class")
 b=Method()  # object create
-b.fun()     #method calling
+b.fun()     # method calling
 print(b.a)  # variable callng
